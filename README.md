@@ -1,2 +1,3 @@
-# Dejame-escuchar-m-sica
-Este proyecto tiene como objetivo analizar las preferencias musicales de dos ciudades ficticias, Springfield y Shelbyville, utilizando datos reales de transmisión de música online. Como analista de datos, se realizarán diferentes etapas clave para obtener información valiosa sobre el comportamiento de los usuarios de ambas ciudades.
+# 🎧🎶 Dejame-escuchar-música🎵🌆
+Este proyecto tiene como objetivo analizar las preferencias musicales de dos ciudades ficticias, Springfield y Shelbyville, utilizando datos reales de transmisión de música online. Como analista de datos, se realizarán diferentes etapas clave para obtener información valiosa sobre el comportamiento de los usuarios de ambas ciudades🏙️.
+El análisis permitió obtener insights sobre las tendencias musicales de los usuarios, lo que puede ser útil para la toma de decisiones en el ámbito de la música online, el marketing y otros sectores. A lo largo del proyecto, se usaron herramientas estadísticas y técnicas de análisis de datos para validar las suposiciones sobre los gustos musicales de estas dos ciudades. 
